@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Amanpandey5677
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**About Me**
+Hi, I'm Aman Pandey, a third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. My passion for technology drives me to continuously explore new areas and expand my knowledge. I strive to apply my skills and expertise to create impactful solutions in software development.
 
-<!---
-Amanpandey5677/Amanpandey5677 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Interests**
+Software Development
+Artificial Intelligence & Machine Learning
+Web Development
+**Projects**
+My portfolio features projects in a variety of domains, showcasing my skills and interests: You can explore more projects in my Projects repository.
+
+**Skills**
+Programming Languages: Python, C, Java 
+Front-End Technologies: HTML, CSS, JavaScript
+Back-End Technologies: MySQL
+Tools: GitHub, Visual Studio Code, Canva
+**Contact Me**
+I'm open to collaborating on interesting projects, internships, or research opportunities. Feel free to reach out to me via:
+
+Email: amanaxis13@gmail.com
+Thank you for visiting my GitHub profile! I'm looking forward to connecting with you and exploring exciting opportunities.
