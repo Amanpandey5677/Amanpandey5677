@@ -1,5 +1,5 @@
 **About Me**
-Hi, I'm Aman Pandey, a third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. My passion for technology drives me to continuously explore new areas and expand my knowledge. I strive to apply my skills and expertise to create impactful solutions in software development.
+Hi, I'm Aman Pandey, i have completed Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. My passion for technology drives me to continuously explore new areas and expand my knowledge. I strive to apply my skills and expertise to create impactful solutions in software development.
 
 **Interests**
 
